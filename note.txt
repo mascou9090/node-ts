@@ -1,0 +1,2 @@
+## SCRIPT MODE, MODULO MODE
+npx tsc -w -> Show in really time the changes
